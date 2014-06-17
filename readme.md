@@ -1,5 +1,6 @@
 ```
-NOTE: this is a random one-night one-iteration school project from around 2006 or 2008, preserved here for history and laughs
+NOTE: this is a random one-night one-iteration school project from
+      around 2006 or 2008, preserved here for history and laughs
 ```
 
 Zemmin tetris STK128:lle
